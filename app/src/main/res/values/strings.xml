@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">personaltask</string>
+    <string name="enter_the_task_to_add">Enter the task to Add</string>
+    <string name="add">ADD</string>
+    <string name="delete_task">delete_task</string>
+    <string name="welcome_to_task_manager">Welcome to Task Manager</string>
+    <string name="here_are_you_tasks">Here are you tasks</string>
+</resources>
